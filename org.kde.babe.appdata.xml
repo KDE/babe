@@ -7,42 +7,50 @@
   <name xml:lang="ca">Babe</name>
   <name xml:lang="nl">Babe</name>
   <name xml:lang="pt">Babe</name>
+  <name xml:lang="sv">Babe</name>
   <name xml:lang="uk">Babe</name>
   <name xml:lang="x-test">xxBabexx</name>
   <summary>Babe is a tiny music collection manager</summary>
   <summary xml:lang="ca">El Babe és un gestor de col·leccions de música</summary>
   <summary xml:lang="nl">Babe is een kleine beheerder van een muziekverzameling </summary>
   <summary xml:lang="pt">O Babe é um pequeno gestor de colecções de música</summary>
+  <summary xml:lang="sv">Babe är en mycket liten musiksamlingshanterare</summary>
   <summary xml:lang="uk">Babe — малесенька програмка для ведення збірок звукових даних</summary>
   <summary xml:lang="x-test">xxBabe is a tiny music collection managerxx</summary>
   <description>
     <p>Babe will handle your whole music collection by retrieving semantic information from the web.</p>
     <p xml:lang="ca">El Babe gestionarà tota la vostra col·lecció de música recuperant la informació semàntica des del web.</p>
     <p xml:lang="nl">Babe zal uw gehele muziekverzameling behandelen door het ophalen van semantische informatie van het web.</p>
+    <p xml:lang="pt">O Babe irá tratar de toda a sua colecção de música, obtendo informações semânticas a partir da Web.</p>
+    <p xml:lang="sv">Babe hanterar hela din musiksamling genom att hämta semantisk information från webben.</p>
     <p xml:lang="uk">Babe подбає про усю вашу музичну збірку, скориставшись семантичними даними з інтернету.</p>
     <p xml:lang="x-test">xxBabe will handle your whole music collection by retrieving semantic information from the web.xx</p>
     <p>Just relax, enjoy and discover your new music </p>
     <p xml:lang="ca">Simplement relaxeu-vos, gaudiu i redescobriu la vostra música</p>
     <p xml:lang="nl">Rustig maar, geniet en ontdek uw nieuwe muziek</p>
     <p xml:lang="pt">Simplesmente descanse, divirta-se e descubra a sua nova música</p>
+    <p xml:lang="sv">Slappna av, njut och upptäck din nya musik</p>
     <p xml:lang="uk">Просто розслабтеся і насолоджуйтеся вашою музикою</p>
     <p xml:lang="x-test">xxJust relax, enjoy and discover your new musicxx</p>
     <p>Use the Chrome extension to collect your favorite music videos from online streaming services like YouTube or Vimeo. Babe uses youtube-dl, so all the supported sites by it are also supported by Babe</p>
     <p xml:lang="ca">Usa l'extensió de Chrome per a recopilar els vostres vídeos musicals preferits des de serveis de transmissió en línia com YouTube o Vimeo. El Babe fa servir «youtube-dl», de manera que tots els llocs admesos també seran compatibles amb el Babe</p>
     <p xml:lang="nl">Gebruik de Chrome-extensie om uw favoriete muziekvideo's uit online streamingservices, zoals YouTube od Vimeo te verzamelen. Babe gebruikt youtube-dl, dus alle daarmee ondersteunde sites worden ook door Babe ondersteund</p>
     <p xml:lang="pt">Use a extensão do Chrome para obter os vídeos da sua música favorita a partir de serviços de transmissão 'online', como o YouTube ou o Vimeo. O Babe usa o youtube-dl, pelo que todos os serviços suportados pelo mesmo serão também suportados no Babe</p>
+    <p xml:lang="sv">Använd utökningen till Chrome för att samla dina favoritmusikvideor från strömningstjänster på nätet som YouTube eller Vimeo. Babe använder youtube-dl, så alla platser som det stöder, stöds också av Babe.</p>
     <p xml:lang="uk">Скористайтеся розширенням Chrome для збирання ваших улюблених відео зі служб потокового відтворення в інтернеті, зокрема YouTube і Vimeo. Babe використовує youtube-dl, тому у Babe забезпечено підтримку усіх сайтів, підтримку яких передбачено у youtube-dl.</p>
     <p xml:lang="x-test">xxUse the Chrome extension to collect your favorite music videos from online streaming services like YouTube or Vimeo. Babe uses youtube-dl, so all the supported sites by it are also supported by Babexx</p>
     <p>Babe has a main playlist where you can drag and drop tracks, artists, albums and custom playlists to be played or put on queued. </p>
     <p xml:lang="ca">El Babe té una llista de reproducció principal on podreu arrossegar i deixar anar pistes, artistes, àlbums i llistes de reproducció personalitzades per a reproduir-les o posar-les a la cua.</p>
     <p xml:lang="nl">Babe heeft een hoofdafspeellijst waar u tracks, artiesten, albums en eigen afspeellijsten naar kunt slepen en laten vallen om te worden afgespeeld of in de rij gezet.</p>
     <p xml:lang="pt">O Babe tem uma lista de reprodução principal para a qual poderá arrastar e largar faixas, bem como os artistas, álbuns e listas personalizadas a reproduzir ou a colocar em fila de espera.</p>
+    <p xml:lang="sv">Babe har en huvudspellista dit du kan dra och släppa spår, artister, album och egna spellistor som ska spelas eller köas.</p>
     <p xml:lang="uk">У Babe передбачено основний список відтворення, до якого ви можете перетягувати пункти композицій, виконавців, альбомів та нетипових списків відтворення для негайного відтворення або додавання до черги відтворення.</p>
     <p xml:lang="x-test">xxBabe has a main playlist where you can drag and drop tracks, artists, albums and custom playlists to be played or put on queued.xx</p>
     <p>Create your own playlists and search for music based on semantic queries.</p>
     <p xml:lang="ca">Creeu les vostres pròpies llistes de reproducció i feu una cerca de música basada en les consultes semàntiques.</p>
     <p xml:lang="nl">Maak uw eigen afspeellijsten en zoek naar muziek gebaseerd op semantische zoekopdrachten.</p>
     <p xml:lang="pt">Crie as suas próprias listas de reprodução e procure por músicas com base em pesquisas semânticas.</p>
+    <p xml:lang="sv">Skapa dina egna spellistor och sök efter musik baserat på semantiska förfrågningar.</p>
     <p xml:lang="uk">Створюйте власні списки відтворення та шукайте музику на основі семантичних даних.</p>
     <p xml:lang="x-test">xxCreate your own playlists and search for music based on semantic queries.xx</p>
     <ul>
@@ -50,18 +58,21 @@
       <li xml:lang="ca">Envia la música al telèfon.</li>
       <li xml:lang="nl">Stuur uw muziek naar uw telefoon.</li>
       <li xml:lang="pt">Envie a sua música para o seu telefone.</li>
+      <li xml:lang="sv">Skicka din musik till din telefon.</li>
       <li xml:lang="uk">Надсилайте музику на ваш телефон.</li>
       <li xml:lang="x-test">xxSend your music to your phone.xx</li>
       <li>Add moods to your music.</li>
       <li xml:lang="ca">Afegeix estats d'ànim a la música.</li>
       <li xml:lang="nl">Voeg stemmingen toe aan uw muziek.</li>
       <li xml:lang="pt">Adicione estados de espírito à sua música.</li>
+      <li xml:lang="sv">Lägg till stämningar i din musik.</li>
       <li xml:lang="uk">Додавайте настрої для музичних творів.</li>
       <li xml:lang="x-test">xxAdd moods to your music.xx</li>
       <li>Edit your file metadata with the help of the internet.</li>
       <li xml:lang="ca">Edita les metadades del fitxer amb l'ajuda d'Internet.</li>
       <li xml:lang="nl">Bewerk uw bestandsmetagegevens met de hulp van het internet.</li>
       <li xml:lang="pt">Edite os meta-dados dos seus ficheiros com a ajuda da Internet.</li>
+      <li xml:lang="sv">Redigera din filmetadata med hjälp av Internet.</li>
       <li xml:lang="uk">Редагуйте метадані ваших файлів, використовуючи дані з інтернету.</li>
       <li xml:lang="x-test">xxEdit your file metadata with the help of the internet.xx</li>
     </ul>
