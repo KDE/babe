@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Babe
 Name[ca]=Babe
+Name[es]=Babe
 Name[it]=Babe
 Name[nl]=Babe
 Name[pt]=Babe
@@ -10,6 +11,7 @@ Name[uk]=Babe
 Name[x-test]=xxBabexx
 Comment=Play your music collection
 Comment[ca]=Reprodueix la vostra col·lecció de música
+Comment[es]=Reproducir su colección de música
 Comment[it]=Riproduce la tua collezione musicale
 Comment[nl]=Uw muziekcollectie afspelen
 Comment[pt]=Tocar a sua colecção de música
@@ -28,6 +30,7 @@ MimeType=application/ogg;application/x-ogg;application/sdp;application/smil;appl
 # Generic name with translations
 GenericName=Audio Player
 GenericName[ca]=Reproductor d'àudio
+GenericName[es]=Reproductor de sonido
 GenericName[it]=Lettore audio
 GenericName[nl]=Audiospeler
 GenericName[pt]=Leitor de Áudio
