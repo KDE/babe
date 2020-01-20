@@ -12,6 +12,7 @@
   <name xml:lang="sv">Babe</name>
   <name xml:lang="uk">Babe</name>
   <name xml:lang="x-test">xxBabexx</name>
+  <name xml:lang="zh-TW">Babe</name>
   <summary>Babe is a tiny music collection manager</summary>
   <summary xml:lang="ca">El Babe és un gestor de col·leccions de música</summary>
   <summary xml:lang="es">Babe es un pequeño gestor de colecciones musicales</summary>
@@ -20,6 +21,7 @@
   <summary xml:lang="sv">Babe är en mycket liten musiksamlingshanterare</summary>
   <summary xml:lang="uk">Babe — малесенька програмка для ведення збірок звукових даних</summary>
   <summary xml:lang="x-test">xxBabe is a tiny music collection managerxx</summary>
+  <summary xml:lang="zh-TW">Babe 是個小型的音樂收藏管理器</summary>
   <description>
     <p>Babe will handle your whole music collection by retrieving semantic information from the web.</p>
     <p xml:lang="ca">El Babe gestionarà tota la vostra col·lecció de música recuperant la informació semàntica des del web.</p>
@@ -37,6 +39,7 @@
     <p xml:lang="sv">Slappna av, njut och upptäck din nya musik</p>
     <p xml:lang="uk">Просто розслабтеся і насолоджуйтеся вашою музикою</p>
     <p xml:lang="x-test">xxJust relax, enjoy and discover your new musicxx</p>
+    <p xml:lang="zh-TW">只需放鬆、享受並尋找您的新音樂</p>
     <p>Use the Chrome extension to collect your favorite music videos from online streaming services like YouTube or Vimeo. Babe uses youtube-dl, so all the supported sites by it are also supported by Babe</p>
     <p xml:lang="ca">Usa l'extensió de Chrome per a recopilar els vostres vídeos musicals preferits des de serveis de transmissió en línia com YouTube o Vimeo. El Babe fa servir «youtube-dl», de manera que tots els llocs admesos també seran compatibles amb el Babe</p>
     <p xml:lang="es">Use la extensión de Chrome para recopilar sus vídeos musicales favoritos de servicios web de difusión, como YouTube o Vimeo. Babe usa youtube-dl, por lo que todos los sitios permitidos por dicho programa también funcionan con Babe.</p>
@@ -70,6 +73,7 @@
       <li xml:lang="sv">Skicka din musik till din telefon.</li>
       <li xml:lang="uk">Надсилайте музику на ваш телефон.</li>
       <li xml:lang="x-test">xxSend your music to your phone.xx</li>
+      <li xml:lang="zh-TW">傳送音樂至手機。</li>
       <li>Add moods to your music.</li>
       <li xml:lang="ca">Afegeix estats d'ànim a la música.</li>
       <li xml:lang="es">Añada estados de ánimo a su música.</li>
