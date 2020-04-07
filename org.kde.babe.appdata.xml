@@ -10,6 +10,7 @@
   <name xml:lang="es">Babe</name>
   <name xml:lang="et">Babe</name>
   <name xml:lang="it">Babe</name>
+  <name xml:lang="ko">Babe</name>
   <name xml:lang="nl">Babe</name>
   <name xml:lang="pt">Babe</name>
   <name xml:lang="sk">Babe</name>
@@ -23,6 +24,7 @@
   <summary xml:lang="es">Babe es un pequeño gestor de colecciones musicales</summary>
   <summary xml:lang="et">Babe on tilluke muusikakogu haldur</summary>
   <summary xml:lang="it">Babe è un piccolo gestore di collezione musicale</summary>
+  <summary xml:lang="ko">Babe는 작은 음악 모음집 관리자입니다</summary>
   <summary xml:lang="nl">Babe is een kleine beheerder van een muziekverzameling </summary>
   <summary xml:lang="pt">O Babe é um pequeno gestor de colecções de música</summary>
   <summary xml:lang="sv">Babe är en mycket liten musiksamlingshanterare</summary>
@@ -36,6 +38,7 @@
     <p xml:lang="es">Babe organiza toda su colección de música obteniendo información semántica de la web.</p>
     <p xml:lang="et">Babe korraldab tervet sinu muusikakogu, tõmmates veebist semantilist teavet.</p>
     <p xml:lang="it">Babe si occupa della tua raccolta musicale recuperando delle informazioni semantiche dal web.</p>
+    <p xml:lang="ko">Babe는 음악 모음집의 웹에서 가져온 시맨틱 정보를 처리합니다.</p>
     <p xml:lang="nl">Babe zal uw gehele muziekverzameling behandelen door het ophalen van semantische informatie van het web.</p>
     <p xml:lang="pt">O Babe irá tratar de toda a sua colecção de música, obtendo informações semânticas a partir da Web.</p>
     <p xml:lang="sv">Babe hanterar hela din musiksamling genom att hämta semantisk information från webben.</p>
@@ -47,6 +50,7 @@
     <p xml:lang="es">Relájese, disfrute y descubra su nueva música</p>
     <p xml:lang="et">Lihtsalt lõdvestu, naudi ja avasta uut muusikat</p>
     <p xml:lang="it">Devi solo rilassarti, divertirti e scoprire la tua nuova musica</p>
+    <p xml:lang="ko">한 발짝 뒤로 물러나서 음악을 다시 발견하십시오</p>
     <p xml:lang="nl">Rustig maar, geniet en ontdek uw nieuwe muziek</p>
     <p xml:lang="pt">Simplesmente descanse, divirta-se e descubra a sua nova música</p>
     <p xml:lang="sv">Slappna av, njut och upptäck din nya musik</p>
@@ -59,6 +63,7 @@
     <p xml:lang="es">Use la extensión de Chrome para recopilar sus vídeos musicales favoritos de servicios web de difusión, como YouTube o Vimeo. Babe usa youtube-dl, por lo que todos los sitios permitidos por dicho programa también funcionan con Babe.</p>
     <p xml:lang="et">Chrome'i laiendus aitab hankida lemmikmuusikavideoid sellistest interneti-vooteenustest nagu YouTube või Vimeo. Babe kasutab youtube-dl'i, mistõttu kõik selle toetatud saidid on ka Babes toetatud.</p>
     <p xml:lang="it">Usa l'estensione di Chrome per raccogliere i tuoi video musicali preferiti da servizi di streaming in rete, come YouTube o Vimeo. Babe usa youtube-dl, quindi supporta tutti i siti che ne fanno uso.</p>
+    <p xml:lang="ko">Chrome 확장 프로그램을 사용하여 YouTube, Vimeo와 같은 온라인 스트리밍 서비스에서 뮤직 비디오를 다운로드할 수 있습니다. Babe는 내부적으로 youtube-dl을 사용하므로 해당 프로그램에서 지원하는 사이트를 모두 지원합니다</p>
     <p xml:lang="nl">Gebruik de Chrome-extensie om uw favoriete muziekvideo's uit online streamingservices, zoals YouTube od Vimeo te verzamelen. Babe gebruikt youtube-dl, dus alle daarmee ondersteunde sites worden ook door Babe ondersteund</p>
     <p xml:lang="pt">Use a extensão do Chrome para obter os vídeos da sua música favorita a partir de serviços de transmissão 'online', como o YouTube ou o Vimeo. O Babe usa o youtube-dl, pelo que todos os serviços suportados pelo mesmo serão também suportados no Babe</p>
     <p xml:lang="sv">Använd utökningen till Chrome för att samla dina favoritmusikvideor från strömningstjänster på nätet som YouTube eller Vimeo. Babe använder youtube-dl, så alla platser som det stöder, stöds också av Babe.</p>
@@ -70,6 +75,7 @@
     <p xml:lang="es">Babe tiene una lista de reproducción principal donde puede arrastrar y soltar pistas, artistas, álbumes y listas de reproducción personalizadas para reproducirlas o ponerlas en cola.</p>
     <p xml:lang="et">Babe pakub põhiesitusloendit, kus saab palasid, esitajaid ja albumeid vajalikku kohta lohistada, ning kohandatud esitusloendeid palade esitamiseks või järjekorda panemiseks.</p>
     <p xml:lang="it">Babe ha una scaletta principale nella quale puoi trascinare tracce, artisti, album e scalette personalizzate, così da essere riprodotte o essere messe in coda.</p>
+    <p xml:lang="ko">Babe의 주 재생 목록에는 재생하거나 대기열에 추가할 트랙, 아티스트, 앨범, 사용자 정의 재생 목록을 끌어다 놓을 수 있습니다.</p>
     <p xml:lang="nl">Babe heeft een hoofdafspeellijst waar u tracks, artiesten, albums en eigen afspeellijsten naar kunt slepen en laten vallen om te worden afgespeeld of in de rij gezet.</p>
     <p xml:lang="pt">O Babe tem uma lista de reprodução principal para a qual poderá arrastar e largar faixas, bem como os artistas, álbuns e listas personalizadas a reproduzir ou a colocar em fila de espera.</p>
     <p xml:lang="sv">Babe har en huvudspellista dit du kan dra och släppa spår, artister, album och egna spellistor som ska spelas eller köas.</p>
@@ -81,6 +87,7 @@
     <p xml:lang="es">Cree sus propias listas de reproducción y busque música mediante consultas semánticas.</p>
     <p xml:lang="et">Oma esitusloendite loomine ning muusika otsimine semantiliste päringutega.</p>
     <p xml:lang="it">Crea le tue scalette e cerca la musica in base ad interrogazioni semantiche.</p>
+    <p xml:lang="ko">사용자 정의 재생 목록을 만들고 시맨틱 질의로 음악을 찾습니다.</p>
     <p xml:lang="nl">Maak uw eigen afspeellijsten en zoek naar muziek gebaseerd op semantische zoekopdrachten.</p>
     <p xml:lang="pt">Crie as suas próprias listas de reprodução e procure por músicas com base em pesquisas semânticas.</p>
     <p xml:lang="sv">Skapa dina egna spellistor och sök efter musik baserat på semantiska förfrågningar.</p>
@@ -93,6 +100,7 @@
       <li xml:lang="es">Envíe música a su teléfono móvil.</li>
       <li xml:lang="et">Muusika saatmine telefoni.</li>
       <li xml:lang="it">Invia la tua musica al telefono.</li>
+      <li xml:lang="ko">음악을 휴대폰으로 전송합니다.</li>
       <li xml:lang="nl">Stuur uw muziek naar uw telefoon.</li>
       <li xml:lang="pt">Envie a sua música para o seu telefone.</li>
       <li xml:lang="sv">Skicka din musik till din telefon.</li>
@@ -105,6 +113,7 @@
       <li xml:lang="es">Añada estados de ánimo a su música.</li>
       <li xml:lang="et">Muusikale meeleolu lisamine.</li>
       <li xml:lang="it">Aggiungi atmosfere alla tua musica.</li>
+      <li xml:lang="ko">음악에 분위기를 추가합니다.</li>
       <li xml:lang="nl">Voeg stemmingen toe aan uw muziek.</li>
       <li xml:lang="pt">Adicione estados de espírito à sua música.</li>
       <li xml:lang="sv">Lägg till stämningar i din musik.</li>
@@ -116,6 +125,7 @@
       <li xml:lang="es">Edite los metadatos de los archivos con la ayuda de Internet.</li>
       <li xml:lang="et">Failide metaandmete muutmine interneti abiga.</li>
       <li xml:lang="it">Modifica i metadati dei tuoi file con l'aiuto di Internet.</li>
+      <li xml:lang="ko">파일 메타데이터를 인터넷의 도움으로 편집합니다.</li>
       <li xml:lang="nl">Bewerk uw bestandsmetagegevens met de hulp van het internet.</li>
       <li xml:lang="pt">Edite os meta-dados dos seus ficheiros com a ajuda da Internet.</li>
       <li xml:lang="sv">Redigera din filmetadata med hjälp av Internet.</li>
